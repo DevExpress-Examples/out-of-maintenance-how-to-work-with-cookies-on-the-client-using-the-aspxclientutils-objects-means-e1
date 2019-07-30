@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to work with cookies on the client, using the ASPxClientUtils object's means
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e1133)**
+**[[Run Online]](https://codecentral.devexpress.com/e1133/)**
 <!-- run online end -->
 
 
